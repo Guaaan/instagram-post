@@ -1,0 +1,65 @@
+body{
+	background: black;
+}
+
+.post{
+    background-color: white;
+    width: 300px;
+    margin: 20px auto;
+}
+h1{
+    margin: 100px;
+}
+#bookmark{
+ float: right;
+ margin-right: 5px;
+}
+span{
+    float: left;
+    margin: 5px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding-bottom: 10px;
+  }
+
+.container{
+    margin-top: 50px;
+    width: 400px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+
+.post #header{
+    width: 100%;
+    overflow: auto;
+}
+.post #header #titulo{
+    width: 50%;
+    float: left;
+}
+.post #header #titulo i,
+.post #header #titulo span {
+    float: left;
+}
+.post #header #ellipsis{
+    width: 50%;
+    float: right;
+    text-align: right;
+}
+
+
+#iconos{
+    margin: 5px;
+}
+.content{
+    margin:15px;
+}
+
+    
